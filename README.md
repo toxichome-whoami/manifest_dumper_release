@@ -10,3 +10,5 @@ After downloading the tool, click on the help button it will bring a webpage the
 - Windows operating system
 - Active internet connection
 ---
+
+### Download now: [Manilua Creator](https://toxichome-whoami.github.io/manilua_creator_release/Manilua_Creator.zip)
