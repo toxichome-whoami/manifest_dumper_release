@@ -1,4 +1,3 @@
-![Visits](https://img.shields.io/badge/Visits-23163-blue)
 # **Manilua Creator for Steam Games**
 
 The **Manilua Creator** is a powerful tool designed to simplify the process of generating Lua files for Steam games. By automating the handling of manifest files and decryption keys, this tool enables users to create Lua files quickly and efficiently.
