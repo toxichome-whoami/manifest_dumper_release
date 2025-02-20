@@ -35,7 +35,7 @@ After downloading and installing the tool, follow these steps:
 7. **Append DLC Data (Optional)**  
    - Click the `Add DLC Data` button.  
    - Select the **TXT file** with the game data.  
-   - Select the generated **Lua file**, and the DLC data will be appended.
+   - Select the generated **Lua file** folder, and the DLC data will be appended.
 
 8. **Create a ZIP File (Optional)**  
    - Click the `Create ZIP` button.  
