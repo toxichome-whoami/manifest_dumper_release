@@ -1,4 +1,4 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=toxichome-whoami&color=green)
+![Profile View Counter](https://komarev.com/ghpvc/?username=toxichome-whoami&color=blue)
 
 # **Manilua Creator for Steam Games**
 
