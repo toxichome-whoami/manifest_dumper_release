@@ -1,4 +1,4 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=toxichome-whoami&color=blue)
+![Repo Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/toxichome-whoami/manilua_creator_release&count_bg=%23007BFF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)
 
 # **Manilua Creator for Steam Games**
 
