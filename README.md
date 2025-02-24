@@ -1,4 +1,4 @@
-[![HitCount](https://hits.dwyl.com/toxichome-whoami/manilua_creator_release.svg?style=flat-square)](http://hits.dwyl.com/toxichome-whoami/manilua_creator_release)
+  [![HitCount](https://hits.dwyl.com/toxichome-whoami /manilua_creator_release.svg?style=flat-square)](http://hits.dwyl.com/toxichome-whoami /manilua_creator_release)
 
 # **Manilua Creator for Steam Games**
 
