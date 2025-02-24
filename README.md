@@ -1,3 +1,5 @@
+[![HitCount](https://hits.dwyl.com/toxichome-whoami/manilua_creator_release.svg?style=flat-square)](http://hits.dwyl.com/toxichome-whoami/manilua_creator_release)
+
 # **Manilua Creator for Steam Games**
 
 The **Manilua Creator** is a powerful tool designed to simplify the process of generating Lua files for Steam games. By automating the handling of manifest files and decryption keys, this tool enables users to create Lua files quickly and efficiently.
