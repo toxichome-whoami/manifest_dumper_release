@@ -8,5 +8,10 @@
         {
             "main_version": "3.2.0.2"
         }
+    ],
+    "dicord_link": [
+        {
+            "join_link": "https://discord.gg/2bv9T3NfVP"
+        }
     ]
 }
