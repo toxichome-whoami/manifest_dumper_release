@@ -13,5 +13,10 @@
         {
             "join_link": "https://discord.gg/2bv9T3NfVP"
         }
+    ],
+    "discord_server_name": [
+        {
+            "server_name": "toxichome"
+        }
     ]
 }
