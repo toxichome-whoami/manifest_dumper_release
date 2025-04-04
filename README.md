@@ -45,7 +45,7 @@ graph TD
     B --> C[Enter App ID]
     C --> D[Create Manifest]
     D --> E[Create Lua]
-    E --> F[.lua to .st]
+    E --> F[.lua to .st (if you want make)]
     F --> G[Package ZIP]
 ```
 
