@@ -44,7 +44,8 @@ graph TD
     A[Launch App] --> B{Setup Steam Location}
     B -->|Auto/Manual| C[Enter App ID]
     C --> D[Create Manifest]
-    D --> E[Generate Lua]
+    D --> E[Create Lua]
+    E --> F[.lua to .st]
     E --> F[Package ZIP]
 ```
 
