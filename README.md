@@ -1,12 +1,85 @@
-# **Manilua Creator for Steam Games**
+# 🔧 Manilua Creator for Steam Games  
+*A Modern Toolkit for Automated Game File Management*  
 
-The **Manilua Creator** is a powerful tool designed to simplify the process of generating Lua files for Steam games. By automating the handling of manifest files and decryption keys, this tool enables users to create Lua files quickly and efficiently.
-
-## **System Requirements**
-- **Windows OS**  
-- **Active internet connection**  
+[![Download](https://img.shields.io/badge/Download_Windows_Executable-v3.2.1.0-0078D4?style=for-the-badge&logo=windows)](https://toxichome-whoami.github.io/manilua_creator_release/Manilua_Creator.zip)  
+[![Discord](https://img.shields.io/badge/Join_Discord-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/2bv9T3NfVP)
 
 ---
 
-Discord Server: [Join Now](https://discord.gg/2bv9T3NfVP)
-Download Now: [Manilua Creator](https://toxichome-whoami.github.io/manilua_creator_release/Manilua_Creator.zip)
+## 🚀 Core Features  
+| **Automation**          | **Security**             | **Conversion**         |
+|-------------------------|--------------------------|------------------------|
+| 🔄 Auto Steam Detection  | 🛡️ Anti-Debug System     | 🔄 Lua ↔ ST Converter  |
+| 📦 Manifest Extraction   | 🖥️ Virtual Machine Check | 📁 ZIP Packaging       |
+| 🤖 DLC Discovery         | 🔒 Integrity Checks      | 🗃️ Batch Processing    |
+| 🌐 SteamDB Integration   |                          | 🧹 Auto File Cleanup   |
+
+---
+
+## 🧰 Installation Guide  
+### Requirements  
+- **OS**: Windows 10/11 (64-bit)  
+- **RAM**: 1GB+  
+- **Storage**: 40MB free space  
+- **Dependencies**:  
+  - Steam Client (logged in)  
+  - .NET Framework 4.8  
+  - You must have game installed on Steam [5 MB is enough btw!]
+
+### Setup Process  
+1. **Download** the package:  
+   ```text
+   https://toxichome-whoami.github.io/manilua_creator_release/Manilua_Creator.zip
+   ```
+2. **Extract** ZIP to your preferred location  
+3. **Launch**: Double-click `Manilua_Creator.exe`  
+
+---
+
+## 🖥️ User Workflow  
+
+### Basic Operation  
+```mermaid
+graph TD
+    A[Launch App] --> A{Setup Steam Location}
+    B --> B[Enter App ID]
+    C --> C[Create Manifest]
+    D --> D[Generate Lua]
+    E --> E[Package ZIP]
+```
+
+### Advanced Tools  
+| Button                  | Action                              |
+|-------------------------|-------------------------------------|
+| 🎛️ Lua/ST Converter    | Convert file formats                |
+| 📤 Folder to ZIP        | Create distributable packages      |
+| 🔄 Manifest Updater     | Fetch latest depot files           |
+
+---
+
+## 🚨 Troubleshooting  
+
+| Issue                  | Solution                          | Emergency Key |
+|------------------------|-----------------------------------|---------------|
+| Opening Errors         | Re-run manifest creation         | `F2` (Clear Console) |
+| Connection Errors      | Check firewall/antivirus settings | -             |
+| VM Detection Triggered | Disable virtualization in BIOS    | -             |
+| Update Failures        | Verify internet connectivity      | -             |
+
+---
+
+## 📜 Legal & Support  
+
+### Disclaimer  
+*This tool is provided "as-is" for educational game preservation purposes. Users must comply with:*  
+- Steam Subscriber Agreement  
+- Local copyright laws  
+
+### Need Help?  
+Join our technical community:  
+[![Discord Support](https://img.shields.io/badge/Chat_on_Discord-5865F2?style=flat&logo=discord)](https://discord.gg/2bv9T3NfVP)  
+
+---
+
+**Developed with ❤️ by Toxic Home**  
+*Empowering legitimate game preservation since 2023*  
