@@ -60,12 +60,13 @@ graph TD
 
 ## 🚨 Troubleshooting  
 
-| Issue                  | Solution                          | Emergency Key |
-|------------------------|-----------------------------------|---------------|
-| Opening Errors         | Re-run manifest creation         | `F2` (Clear Console) |
-| Connection Errors      | Check firewall/antivirus settings | -             |
-| VM Detection Triggered | Disable virtualization in BIOS    | -             |
-| Update Failures        | Verify internet connectivity      | -             |
+| Issue                  | Solution                          | Emergency Key        |
+|------------------------|-----------------------------------|----------------------|
+| Opening Errors         | Re-run manifest creation          | `F2` (Clear Console) |
+| Lua to ST Conversion   | Ensure .lua file contains valid Lua code              | -                    |
+| Connection Errors      | Check firewall/antivirus settings | -                    |
+| VM Detection Triggered | Disable virtualization in BIOS    | -                    |
+| Update Failures        | Verify internet connectivity      | -                    |
 
 ---
 
