@@ -7,12 +7,12 @@
 ---
 
 ## 🚀 Core Features  
-| **Automation**          | **Security**             | **Conversion**         |
-|-------------------------|--------------------------|------------------------|
-| 🔄 Auto Steam Detection  | 🛡️ Anti-Debug System     | 🔄 Lua ↔ ST Converter  |
-| 📦 Manifest Extraction   | 🖥️ Virtual Machine Check | 📁 ZIP Packaging       |
-| 🤖 DLC Discovery         | 🔒 Integrity Checks      | 🗃️ Batch Processing    |
-| 🌐 SteamDB Integration   |                          | 🧹 Auto File Cleanup   |
+| **Automation**            | **Conversion**         |
+|---------------------------|------------------------|
+| 🔄 Auto Steam Detection  | 🔄 Lua ↔ ST Converter  |
+| 📦 Manifest Extraction   | 📁 ZIP Packaging       |
+| 🤖 DLC Discovery         | 🗃️ Batch Processing    |
+| 🌐 SteamDB Integration   | 🧹 Auto File Cleanup   |
 
 ---
 
