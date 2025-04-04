@@ -8,5 +8,5 @@ The **Manilua Creator** is a powerful tool designed to simplify the process of g
 
 ---
 
-### **Discord Server:**  [Join Now](https://discord.gg/2bv9T3NfVP)
-### **Download Now:**  [Manilua Creator](https://toxichome-whoami.github.io/manilua_creator_release/Manilua_Creator.zip)
+Discord Server: [Join Now](https://discord.gg/2bv9T3NfVP)
+Download Now: [Manilua Creator](https://toxichome-whoami.github.io/manilua_creator_release/Manilua_Creator.zip)
