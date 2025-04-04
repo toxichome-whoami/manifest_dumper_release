@@ -41,11 +41,11 @@
 ### Basic Operation  
 ```mermaid
 graph TD
-    A[Launch App] --> A{Setup Steam Location}
-    B --> B[Enter App ID]
-    C --> C[Create Manifest]
-    D --> D[Generate Lua]
-    E --> E[Package ZIP]
+    A[Launch App] --> B{Setup Steam Location}
+    B -->|Auto/Manual| C[Enter App ID]
+    C --> D[Create Manifest]
+    D --> E[Generate Lua]
+    E --> F[Package ZIP]
 ```
 
 ### Advanced Tools  
