@@ -1,7 +1,7 @@
 # 🔧 Manilua Creator for Steam Games  
 *A Modern Toolkit for Automated Game File Management*  
 
-[![Download](https://img.shields.io/badge/Download_Windows_Executable-v3.2.1.1-0078D4?style=for-the-badge&logo=windows)](https://toxichome-whoami.github.io/manilua_creator_release/Manilua_Creator.zip)  
+[![Download](https://img.shields.io/badge/Download_Windows_Executable-v3.2.1.2-0078D4?style=for-the-badge&logo=windows)](https://toxichome-whoami.github.io/manilua_creator_release/Manilua_Creator.zip)  
 [![Discord](https://img.shields.io/badge/Join_Discord-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/2bv9T3NfVP)
 
 ---
