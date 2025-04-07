@@ -54,4 +54,4 @@
 
 ---
 
-<sub>Manilua Creator © 2024 by Toxic Home is licensed under [MIT](https://github.com/toxichome-whoami/manilua_creator_release/blob/main/LICENSE.txt)</sub>
+<sub>Manilua Creator © 2025 by Toxic Home is licensed under [MIT](https://github.com/toxichome-whoami/manilua_creator_release/blob/main/LICENSE.txt)</sub>
