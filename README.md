@@ -1,14 +1,14 @@
-<h1 style="text-transform: capitalize; text-align: center;">Manilua Creator For Steam Games</h1>
+<h1>Manilua Creator For Steam Games</h1>
 
 <div style="text-align: center;">
     <img src="https://toxichome-whoami.github.io/manilua_creator_release/preview/app.png" alt="Manilua Creator">
 </div>
 
-<h2 style="text-transform: uppercase;">Overview</h2>
+<h2>OVERVIEW</h2>
 
 **Manilua Creator** is a powerful tool designed to automate the process of generating Lua script, collecting manifest files and Achievement files from Steam Client. This program helps users to save their time and effort by automating the process. Because of creating game files is a time-consuming task, this tool streamlines the process.
 
-<h2 style="text-transform: uppercase;">INSTALLATION REQUIREMENTS</h2>
+<h2>INSTALLATION REQUIREMENTS</h2>
 
 * **OS**: Windows 10 or 11 (64-bit)
 * **RAM**: At least 500MB or more (Maybe IDK)
@@ -19,13 +19,13 @@
     - Logged-in Steam account with legitimately purchased games
     - Game downloaded on Steam (5MB is sufficient)
 
-<h2 style="text-transform: uppercase;">INSTALLATION PROCESS</h2>
+<h2>INSTALLATION PROCESS</h2>
 
 1. **Setup**: [Download Manilua Creator](https://toxichome-whoami.github.io/manilua_creator_release/Manilua_Creator.zip)
 2. **Extract**: Unzip the downloaded `.zip` file.
 3. **Launch**: Run the `.exe` file to initiate the installation.
 
-<h2 style="text-transform: uppercase;">HOW TO USE?</h2>
+<h2>HOW TO USE?</h2>
 
 1. **Launch App**: Open Manilua Creator after installation.
 2. **Setup Steam Location**: Click the corresponding button to automatically detect your Steam Client's installation folder. If detection fails, a file explorer will prompt you to select the folder manually.
@@ -40,13 +40,13 @@
     - **Tutorial**: Opens a tutorial video in your web browser demonstrating the tool's usage.
     - **Clear Console**: To clear the console, select it and press `F2`.
 
-<h2 style="text-transform: uppercase;">TROUBLESHOOTING</h2>
+<h2>TROUBLESHOOTING</h2>
 
 - **Lua to St Conversion Errors:** If errors occur during conversion, the `.lua` file may contain corrupted text that needs manual correction.
 - **Tool Malfunctions:** Running the tool as an administrator can resolve certain issues.
 - **Antivirus/Firewall Warnings:** If the tool is flagged as a virus, grant the necessary permissions.
 
-<h2 style="text-transform: uppercase;">LEGAL & SUPPORT</h2>
+<h2>LEGAL & SUPPORT</h2>
 
 **Disclaimer**: This tool was developed for entertainment purposes. While playing games for free can be enjoyable, refrain from using the tool for piracy or selling game files.
 
