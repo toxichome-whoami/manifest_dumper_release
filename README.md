@@ -1,8 +1,6 @@
 <h1>Manilua Creator For Steam Games</h1>
 
-<div style="text-align: center;">
-    <img src="https://toxichome-whoami.github.io/manilua_creator_release/preview/app.png" alt="Manilua Creator">
-</div>
+<img src="https://toxichome-whoami.github.io/manilua_creator_release/preview/app.png" alt="Manilua Creator">
 
 <h2>OVERVIEW</h2>
 
