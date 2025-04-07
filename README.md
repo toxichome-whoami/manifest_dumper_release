@@ -54,4 +54,4 @@
 
 ---
 
-Developed by Toxic Home... Empowering legitimate game preservation since 2024
+<sub>Manilua Creator © 2024 by Toxic Home is licensed under [MIT](https://github.com/toxichome-whoami/manilua_creator/blob/main/LICENSE.txt)</sub>
