@@ -9,7 +9,7 @@
 <h2>INSTALLATION REQUIREMENTS</h2>
 
 * **OS**: Windows 10 or 11 (64-bit)
-* **RAM**: At least 500MB or more (Maybe IDK)
+* **RAM**: At least 41+ MB
 * **Storage**: At least 40MB+ of free space
 * **Dependencies**:
     - Active internet connection
