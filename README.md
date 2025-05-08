@@ -1,10 +1,10 @@
-<h1>Manilua Creator For Steam Games</h1>
+<h1>Manifest Dumper For Steam Games</h1>
 
-<img src="https://toxichome-whoami.github.io/manilua_creator_release/preview/app.png" alt="Manilua Creator">
+<img src="https://toxichome-whoami.github.io/manifest_dumper_release/preview/app.png" alt="Manifest Dumper">
 
 <h2>OVERVIEW</h2>
 
-**Manilua Creator** is a powerful tool designed to automate the process of generating Lua script, collecting manifest files and Achievement files from Steam Client. This program helps users to save their time and effort by automating the process. Because of creating game files is a time-consuming task, this tool streamlines the process.
+**Manifest Dumper** is a powerful tool designed to automate the process of generating Lua script, collecting manifest files and Achievement files from Steam Client. This program helps users to save their time and effort by automating the process. Because of creating game files is a time-consuming task, this tool streamlines the process.
 
 <h2>INSTALLATION REQUIREMENTS</h2>
 
@@ -19,19 +19,19 @@
 
 <h2>INSTALLATION PROCESS</h2>
 
-1. **Setup**: [Download Manilua Creator](https://toxichome-whoami.github.io/manilua_creator_release/Manilua_Creator.zip)
+1. **Setup**: [Download Manifest Dumper](https://toxichome-whoami.github.io/Manifest_Dumper_release/Manifest_Dumper.zip)
 2. **Extract**: Unzip the downloaded `.zip` file.
 3. **Launch**: Run the `.exe` file to initiate the installation.
 
 <h2>HOW TO USE?</h2>
 
-1. **Launch App**: Open Manilua Creator after installation.
+1. **Launch App**: Open Manifest Dumper after installation.
 2. **Setup Steam Location**: Click the corresponding button to automatically detect your Steam Client's installation folder. If detection fails, a file explorer will prompt you to select the folder manually.
 3. **Enter App ID**: Input the `AppID` of the game for which you're creating a game file. If unknown, search for the game on [SteamDB](https://steamdb.info/) to find its `AppID`.
 4. **Create Manifest**: Click the button and choose a destination folder. The tool will create a new folder (e.g., `12120`) containing depots, achievements (if available), and a manifest decryption `.txt` file (e.g., `code.txt`).
 5. **Create Lua**: Select the folder created in the previous step. The tool will generate a well-indented `.lua` file and clean up unnecessary files and code.
 6. **Folder to Zip**: Choose the folder containing the `.lua` or `.st` and `.manifest` files. The tool will prompt you to keep or delete subfolder and then create a `.zip` file. For multiple game files, selecting the parent folder allows batch zipping.
-7. **Update**: Click this button to download updates for Manilua Creator.
+7. **Update**: Click this button to download updates for Manifest Dumper.
 8. **Optional Features**:
     - **Lua and St Converter**: Converts `.lua` files to `.st` files and vice versa.
     - **Manifest Updater**: Downloads the latest manifest files from GitHub. Input your `.lua` or `.st` file and click download.
@@ -54,4 +54,4 @@
 
 ---
 
-<sub>Manilua Creator © 2025 by Toxic Home is licensed under [MIT](https://github.com/toxichome-whoami/manilua_creator_release/blob/main/LICENSE.txt)</sub>
+<sub>Manifest Dumper © 2025 by Toxic Home is licensed under [MIT](https://github.com/toxichome-whoami/manifest_dumper_release/blob/main/LICENSE.txt)</sub>
