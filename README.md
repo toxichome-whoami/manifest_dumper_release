@@ -19,7 +19,7 @@
 
 <h2>INSTALLATION PROCESS</h2>
 
-1. **Setup**: [Download Manifest Dumper](https://toxichome-whoami.github.io/Manifest_Dumper_release/Manifest_Dumper.zip)
+1. **Setup**: [Download Manifest Dumper](https://toxichome-whoami.github.io/manifest_dumper_release/Manifest_Dumper.zip)
 2. **Extract**: Unzip the downloaded `.zip` file.
 3. **Launch**: Run the `.exe` file to initiate the installation.
 
